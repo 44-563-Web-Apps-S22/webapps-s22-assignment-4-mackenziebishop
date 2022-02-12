@@ -27,13 +27,13 @@
 th {
     text-align: center;
     font-weight: bold;
-    padding: 10px;
+    padding: 15px;
 }
 
 td {
     text-align: center;
     color: seagreen;
-    padding: 10px;
+    padding: 15px;
 }
 
 table, th, td {
