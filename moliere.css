@@ -4,14 +4,11 @@
     color: black;
 }
 
-.direction {
+.direction:hover {
+    background-color: powderblue;
     font-family: Georgia, serif;
     font-size: 15px;
     color: black;
-}
-
-.direction:hover {
-    background-color: powderblue;
 }
 
 .name {
