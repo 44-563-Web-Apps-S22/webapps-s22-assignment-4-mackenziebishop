@@ -1,15 +1,21 @@
-speech {
+.speech {
     font-family: serif;
     font-size: 20px;
-    color: black;}
+    color: black;
+}
 
-direction:hover {
+.direction:hover {
     font-family: Georgia, serif;
     font-size: 12 px;
     color: black;
-    background-color: blanchedalmond;}
-       
-name {
+    background-color: blanchedalmond;
+}
+
+.name {
     font-family: serif;
     font-size: 20px;
-    color: black;}
+    color: black;
+}
+
+.philaminte { color: palevioletred;}
+.armande { color: aquamarine;}
