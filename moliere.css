@@ -4,10 +4,13 @@
     color: black;
 }
 
-.direction.hover {
+.direction {
     font-family: Georgia, serif;
     font-size: 15px;
     color: black;
+}
+
+direction:hover {
     background-color: blanchedalmond;
 }
 
