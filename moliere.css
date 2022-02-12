@@ -15,10 +15,13 @@
     background-color: powderblue;
 }
 
-.name h5:hover{
+.name {
     font-family: serif;
     font-size: 15px;
     color: black;
+}
+
+.name:hover {
     text-shadow: 2px 2px 5px seagreen;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
