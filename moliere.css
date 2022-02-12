@@ -10,8 +10,8 @@
     color: black;
 }
 
-direction:hover {
-    background-color: blanchedalmond;
+.direction:hover {
+    background-color: powderblue;
 }
 
 .name {
