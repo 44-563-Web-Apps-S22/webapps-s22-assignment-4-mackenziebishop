@@ -23,3 +23,20 @@
 
 .philaminte { color: palevioletred;}
 .armande { color: rebeccapurple;}
+
+th {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+
+td {
+    text-align: center;
+    color: seagreen;
+    padding: 10px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
