@@ -10,7 +10,7 @@
     color: black;
 }
 
-p:hover{
+.direction:hover {
     background-color: powderblue;
 }
 
